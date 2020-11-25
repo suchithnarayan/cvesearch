@@ -3,7 +3,7 @@ Get CVE IDs
 
 # Dependency:
 
-pip install beautifulsoup4
+pip3 install beautifulsoup4
 
 # Usage:
 
